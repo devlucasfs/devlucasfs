@@ -1,0 +1,115 @@
+## Lucas Silveira 🥀
+#### [BFlex Group](#)'s Developer - A coffee, a keyboard and a life. 
+- ` 0x10 `
+<h5>
+  <details>
+    <summary align="left">Personal things</summary>
+    <br>
+    <div align="center" align-items="center"> 
+      <table>
+        <tr>
+          <td>
+            <center>
+              <h2>Most used languages in my public repositories</h2>
+              <p>Always remember that this only shows the percentage of language usage, only in my public repositories! Organizations, and private repositories ARE NOT COMPUTED.</p>
+              <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" target="_blank">
+                <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
+              </a>
+            </center>
+          </td>
+          <td>
+            <!-- <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" alt="Top Langs"> -->
+            <!-- <img width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasFelixSilveira&theme=monokai&exclude=JavaScript" alt="Top langs"> -->
+             <img width="900px" src="https://personal-wakatime.vercel.app/amount?username=lucasFelixSilveira&remove=JavaScript,Shell&limit=6" alt="language coded">
+          </td>
+        </tr> 
+        <tr>
+          <td>
+            <center>
+              <h2>My time coding in each language</h2>
+              <p>The time I have spent in each language in total is certainly not exactly this. For example: I migrated from an accountant, and I had to add the hours in the code of my repository, personal-wakatime. And of course, this does not compute my time programming outside of Vscode.</p>
+              <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=1335b603-9898-4e8b-9946-91b7bd73869c" target="_blank">
+                <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
+              </a>
+            </center>
+          </td>
+          <td>
+            <img width="900px" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" alt="time coding">
+          </td>
+        </tr> 
+        <tr>
+          <td>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla" alt="Carla"> 
+          </td>
+          <td>
+            <h2>My own programming language</h2>
+            <p>Meet Carla, the new programming language, with the simplicity of C, and the modernity of Rust</p>
+            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
+              <img width="110px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=morgana" alt="Morgana"> 
+          </td>
+          <td>
+            <h2>My own IR language</h2>
+            <p>Meet Morgana, the new IR language, simple and compilation-time-fast than LLVM</p>
+            <a href="https://github.com/lucasFelixSilveira/morgana" target="_blank">
+            <img width="130px" src="https://img.shields.io/badge/Meet%20Morgana-dd71ba">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=runa" alt="Runa"> 
+          </td>
+          <td>
+            <h2>My own LUA interpreter</h2>
+            <p>Meet Runa, the most compacted C API to run Lua. Runa was made to be used in <a href="https://github.com/Carla-corp/extensors">Morgana Extensors</a></p>
+            <a href="https://github.com/lucasFelixSilveira/runa" target="_blank">
+            <img width="110px" src="https://img.shields.io/badge/Meet%20Runa-442370">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Carla-Corp&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=eva" alt="EVA"> 
+          </td>
+          <td>
+            <h2>My own declarative configuration language</h2>
+            <p>Meet EVA, a human-readable declarative configuration language focused on simplicity, composition and readability.</p>
+            <a href="https://github.com/Carla-Corp/eva" target="_blank">
+            <img width="110px" src="https://img.shields.io/badge/Meet%20Eva-F27002">
+            </a>
+            <br>
+            <br>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
+</h5>
+
+<div align="center">
+  <div>
+    <!-- <img src="https://imgur.com/CZ3pw4E.png" width="37" height="37" > -->
+    <!-- <img src="https://imgur.com/qhtSaWM.png" width="37" height="37" > -->
+    <img src="https://skillicons.dev/icons?i=perl,c,cpp,java,go,rust,zig,dart" height="37" > 
+  </div>
+</div>
+
+<div align="center">
+ <h6>Language DEV stacks: <a href="https://github.com/lucasFelixSilveira/morgana">Morgana</a>, LLVM & MLIR</h6>
+</div>
