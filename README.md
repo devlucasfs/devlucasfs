@@ -1,5 +1,5 @@
 ## Lucas Silveira 🥀
-#### [BFlex Group](#)'s Developer - A coffee, a keyboard and a life. 
+#### [Lucas F Silveira](#)'s account. The other one was lost because `authy` is a shit. - A coffee, a keyboard and a life. 
 - ` 0x10 `
 <h5>
   <details>
