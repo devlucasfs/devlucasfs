@@ -45,7 +45,7 @@
           <td>
             <h2>My own programming language</h2>
             <p>Meet Carla, the new programming language, with the simplicity of C, and the modernity of Rust</p>
-            <a href="https://github.com/lucasFelixSilveira/carla" target="_blank">
+            <a href="https://github.com/devlucasfs/carla" target="_blank">
               <img width="110px" src="https://img.shields.io/badge/Meet%20Carla-1d1d1d">
             </a>
             <br>
@@ -60,7 +60,7 @@
           <td>
             <h2>My own IR language</h2>
             <p>Meet Morgana, the new IR language, simple and compilation-time-fast than LLVM</p>
-            <a href="https://github.com/lucasFelixSilveira/morgana" target="_blank">
+            <a href="https://github.com/devlucasfs/morgana" target="_blank">
             <img width="130px" src="https://img.shields.io/badge/Meet%20Morgana-dd71ba">
             </a>
             <br>
@@ -75,7 +75,7 @@
           <td>
             <h2>My own LUA interpreter</h2>
             <p>Meet Runa, the most compacted C API to run Lua. Runa was made to be used in <a href="https://github.com/Carla-corp/extensors">Morgana Extensors</a></p>
-            <a href="https://github.com/lucasFelixSilveira/runa" target="_blank">
+            <a href="https://github.com/devlucasfs/runa" target="_blank">
             <img width="110px" src="https://img.shields.io/badge/Meet%20Runa-442370">
             </a>
             <br>
@@ -90,7 +90,7 @@
           <td>
             <h2>My own declarative configuration language</h2>
             <p>Meet EVA, a human-readable declarative configuration language focused on simplicity, composition and readability.</p>
-            <a href="https://github.com/Carla-Corp/eva" target="_blank">
+            <a href="https://github.com/Carla-repos/eva" target="_blank">
             <img width="110px" src="https://img.shields.io/badge/Meet%20Eva-F27002">
             </a>
             <br>
