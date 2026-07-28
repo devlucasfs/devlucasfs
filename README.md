@@ -1,6 +1,6 @@
 ## Lucas Silveira 🥀
 #### [Lucas F Silveira](#)'s account. The other one was lost because `authy` is a shit. 
-- ` 0x10 `
+- ` 0x11 `
 <h5>
   <details>
     <summary align="left">Personal things</summary>
