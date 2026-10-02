@@ -12,7 +12,7 @@
             <center>
               <h2>Most used languages in my public repositories</h2>
               <p>Always remember that this only shows the percentage of language usage, only in my public repositories! Organizations, and private repositories ARE NOT COMPUTED.</p>
-              <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" target="_blank">
+              <a href="https://personal-wakatime.vercel.app/amount?username=delucasfs&remove=JavaScript,Shell&limit=6" target="_blank">
                 <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
@@ -20,7 +20,7 @@
           <td>
             <!-- <img width="900px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFelixSilveira&layout=pie&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0" alt="Top Langs"> -->
             <!-- <img width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasFelixSilveira&theme=monokai&exclude=JavaScript" alt="Top langs"> -->
-             <img width="900px" src="https://personal-wakatime.vercel.app/amount?username=lucasFelixSilveira&remove=JavaScript,Shell&limit=6" alt="language coded">
+             <img width="900px" src="https://personal-wakatime.vercel.app/amount?username=devlucasfs&remove=JavaScript,Shell&limit=6" alt="language coded">
           </td>
         </tr> 
         <tr>
@@ -28,19 +28,19 @@
             <center>
               <h2>My time coding in each language</h2>
               <p>The time I have spent in each language in total is certainly not exactly this. For example: I migrated from an accountant, and I had to add the hours in the code of my repository, personal-wakatime. And of course, this does not compute my time programming outside of Vscode.</p>
-              <a href="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=1335b603-9898-4e8b-9946-91b7bd73869c" target="_blank">
+              <a href="https://personal-wakatime.vercel.app/timer?username=b75b3b2a-9dec-4525-b599-711c3fc31939&key=f78a5186-3d69-4fdc-84db-6a172140a5d1" target="_blank">
                 <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
           </td>
           <td>
-            <img width="900px" src="https://personal-wakatime.vercel.app/timer?username=lucasFelixSilveira&key=2ebaf108-ed67-4b8a-bf58-e5a2edc09928" alt="time coding">
+            <img width="900px" src="https://personal-wakatime.vercel.app/timer?username=b75b3b2a-9dec-4525-b599-711c3fc31939&key=f78a5186-3d69-4fdc-84db-6a172140a5d1" alt="time coding">
           </td>
         </tr> 
         <tr>
           <td>
             <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
-            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla" alt="Carla"> 
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=devlucasfs&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla" alt="Carla"> 
           </td>
           <td>
             <h2>My own programming language</h2>
@@ -55,7 +55,7 @@
         <tr>
           <td>
             <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
-            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=morgana" alt="Morgana"> 
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=devlucasfs&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=morgana" alt="Morgana"> 
           </td>
           <td>
             <h2>My own IR language</h2>
@@ -70,7 +70,7 @@
         <tr>
           <td>
             <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
-            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=runa" alt="Runa"> 
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=devlucasfs&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=runa" alt="Runa"> 
           </td>
           <td>
             <h2>My own LUA interpreter</h2>
@@ -85,7 +85,7 @@
         <tr>
           <td>
             <!-- <img src="https://github-readme-stats.vercel.app/api/pin?username=lucasFelixSilveira&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=carla"> -->
-            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Carla-Corp&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=eva" alt="EVA"> 
+            <img src="https://github-readme-stats-gray-three.vercel.app/api/pin/?username=Carla-repos&theme=dracula&bg_color=000000&border_color=00000000&text_color=ffffff&hide_progress=true&border_radius=0&repo=eva" alt="EVA"> 
           </td>
           <td>
             <h2>My own declarative configuration language</h2>
