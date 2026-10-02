@@ -12,7 +12,7 @@
             <center>
               <h2>Most used languages in my public repositories</h2>
               <p>Always remember that this only shows the percentage of language usage, only in my public repositories! Organizations, and private repositories ARE NOT COMPUTED.</p>
-              <a href="https://personal-wakatime.vercel.app/amount?username=delucasfs&remove=JavaScript,Shell&limit=6" target="_blank">
+              <a href="https://personal-wakatime.vercel.app/amount?username=devlucasfs&remove=JavaScript,Shell&limit=6" target="_blank">
                 <img width="160px" src="https://img.shields.io/badge/See%20enlarged%20scale-5c0a5c">
               </a>
             </center>
